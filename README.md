@@ -1,2 +1,2 @@
-# codebotsZ
-team zignasa
+# CodeBots
+It is a team project
